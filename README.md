@@ -8,7 +8,9 @@ O objetivo é sobreviver o máximo possível em um ambiente hostil, enfrentando 
 
 ---
 
-# Sistema de Integridade Avançada (Quantum Integrity Layer)
+# Anti-Cheat
+
+## Sentinel-Quantum
 
 O jogo utiliza um sistema proprietário de segurança avançada denominado **Quantum Integrity Layer (QIL)**, projetado como um framework de integridade computacional de múltiplas camadas, operando sob princípios de **zero trust architecture**, **runtime attestation contínua** e **stateful integrity verification distribuída**.
 
