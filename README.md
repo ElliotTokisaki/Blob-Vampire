@@ -52,3 +52,47 @@ x86_64-w64-mingw32-gcc game.c -o game.exe \
   gcc game.c -o game \
   -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 ```
+
+---
+
+# Creditos
+
+---
+
+## 1. Direção Principal
+
+- Game Director: ElliotTokisaki  
+- Creative Director: PixelMaster06  
+- Technical Director: ElliotTokisaki  
+- Art Director: FallenAFK  
+- Audio Director: PixelMaster06  
+
+---
+
+## 2. Programação / Engenharia
+
+### Engenharia e Sistemas
+
+- Lead Programmer: ElliotTokisaki
+- Gameplay Programmers: ElliotTokisaki, PixelMaster06
+- Engine Programmers: ElliotTokisaki, PixelMaster06    
+- Tools Programmers: GCC, MinGW, Linux, Windows
+
+---
+
+## 3. Áudio
+
+- Audio Director: PixelMaster06
+- Sound Designers: PixelMaster06
+- Composers: PixelMaster06  
+
+---
+
+## 4. Créditos Finais
+
+- Lista completa de todos os colaboradores: PixelMaster06
+- Ferramentas e tecnologias utilizadas: GCC, MSYS2-UCRT, MSYS2-MSYS, LINUX, WINDOWS, MINGW,
+- Agradecimento especial: Linus Torvald
+
+---
+
