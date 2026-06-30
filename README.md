@@ -24,8 +24,6 @@ Este projeto foi desenvolvido por **ElliotTokisaki**, como um jogo independente 
 ## Como jogar
 
 - WASD → movimentação
-- Mouse → mira / interação
-- Clique esquerdo → ataque / ação principal
 - ESC → pausar o jogo
 
 *(controles podem variar conforme a versão)*
