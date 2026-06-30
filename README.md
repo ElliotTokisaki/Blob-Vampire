@@ -42,10 +42,13 @@ x86_64-w64-mingw32-gcc game.c -o game.exe \
   -L/home/elliot/Downloads/raylib-6.0_win64_mingw-w64/lib \
   -lraylib \
   -lwinmm -lgdi32 -lopengl32 -lws2_32
+```
 
 ---
 
  ## Como compilar (Linux)
 
+```bash
   gcc game.c -o game \
   -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+```
