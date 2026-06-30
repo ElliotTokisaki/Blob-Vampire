@@ -243,7 +243,7 @@ x86_64-w64-mingw32-gcc game.c -o game.exe \
 
 ## 4. Créditos Finais
 
-- Lista completa de todos os colaboradores: ElliotTokisaki, PixelMaster06, 
+- Lista completa de todos os colaboradores: ElliotTokisaki, PixelMaster06, Lucario, FallenAFK
 - Ferramentas e tecnologias utilizadas: GCC, MSYS2-UCRT, MSYS2-MSYS, LINUX, WINDOWS, MINGW,
 - Agradecimento especial: Linus Torvald
 
