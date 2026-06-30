@@ -1,4 +1,4 @@
-# Blob Survival
+# Blob SurvivaI
 
 Blob Survival é um jogo 2D desenvolvido em C utilizando a biblioteca Raylib.  
 O objetivo é sobreviver o máximo possível em um ambiente hostil, enfrentando inimigos e coletando recursos.
